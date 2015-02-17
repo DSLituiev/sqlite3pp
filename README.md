@@ -7,6 +7,8 @@ It makes SQLite3 API more friendly to C++ users. It supports almost all of SQLit
 
 With ext::function class, it's also easy to write the sqlite3's functions and aggregations.
 
+<i>Fork highlights</i>: `cstring` is included into the header + CMakeLists.txt
+
 # Usage
 
 ## database
