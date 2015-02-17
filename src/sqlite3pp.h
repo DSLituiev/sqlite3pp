@@ -31,6 +31,7 @@
 #include <stdexcept>
 #include <string>
 #include <tuple>
+#include <cstring>
 
 namespace sqlite3pp
 {
